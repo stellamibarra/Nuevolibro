@@ -3,3 +3,4 @@ Capitulo 2 : Flujo de trabajo basico
 Capitulo 3 : Gestion de Ramas
 Capitulo 4 : Repositorios remotos
 Capitulo 5 : Cambios a eleccion
+Capitulo 6: Agregado por compañero
